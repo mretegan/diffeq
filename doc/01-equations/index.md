@@ -3,5 +3,5 @@
 caption: Equations
 ---
 
-lorentz_differential_equations
+lorenz_differential_equations
 ```
