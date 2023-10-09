@@ -24,7 +24,7 @@ After cloning this repository, you can use the notebooks and build the documenta
 
     Then, open the notebook and click on the "Enter/Exit RISE Slideshow" button in the toolbar (it looks like a bar chart).
 
-    You can assign the type of slide to each cell using the "Slide Type" dropdown menu in the toolbar. If you don't see the toolbar, click on "View" -> "Cell Toolbar" -> "Slideshow".
+    You can assign the type of slide to each cell using the "Slide Type" dropdown menu on the right-hand side. If you don't see the toolbar, click on "View" -> "Cell Toolbar" -> "Slideshow".
 
 4. To build the documentation, run:
 
