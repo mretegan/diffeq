@@ -12,6 +12,9 @@ dependencies:
   - sphinx-copybutton
   - notebook<7
   - rise
+  - nbsphinx
+  - nbsphinx-link
+  - sphinx-copybutton
   - pip:
     - flake8_nb
     - black[jupyter]
