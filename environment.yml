@@ -19,3 +19,4 @@ dependencies:
   - pip:
       - flake8_nb
       - black[jupyter]
+      - myst_parser
