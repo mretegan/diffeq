@@ -8,14 +8,13 @@ dependencies:
   - scipy
   - matplotlib
   - ipympl
-  - sphinx
+  - notebook<7 # Version larger than 7 does not work with RISE.
+  - rise # For using notebooks as slides.
+  - sphinx # For building documentation.
   - sphinx-copybutton
-  - notebook<7
-  - rise
+  - sphinx-rtd-theme # Theme used for documentation. More themes: https://sphinx-themes.org.
   - nbsphinx
   - nbsphinx-link
-  - sphinx-copybutton
-  - sphinx-rtd-theme
   - pip:
       - flake8_nb
       - black[jupyter]
