@@ -33,3 +33,5 @@ After cloning this repository, you can use the notebooks and build the documenta
     ```
 
     The documentation will be built in the `_build` directory. To view it, open `_build/html/index.html` in your browser.
+
+5. Run `clean-notebooks.sh` to remove the output from the notebooks and to automatically format the code using Black. This is useful before committing changes to the repository.
