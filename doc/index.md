@@ -2,8 +2,7 @@
 
 ```{eval-rst}
 .. toctree::
-   :caption: Contents
    :maxdepth: 1
 
-   01-equations/index
+   01-ode/index
 ```
