@@ -1,16 +1,9 @@
-# Welcome to Curs's documentation!
+# Differential Equations
 
 ```{eval-rst}
 .. toctree::
    :caption: Contents
-   :maxdepth: 2
+   :maxdepth: 1
 
    01-equations/index
-```
-
-# Indices and tables
-```{eval-rst}
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 ```
