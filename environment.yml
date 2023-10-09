@@ -1,4 +1,4 @@
-name: curs
+name: diffeq
 channels:
   - conda-forge
 dependencies:
@@ -15,7 +15,7 @@ dependencies:
   - nbsphinx
   - nbsphinx-link
   - sphinx-copybutton
+  - sphinx-rtd-theme
   - pip:
-    - flake8_nb
-    - black[jupyter]
-
+      - flake8_nb
+      - black[jupyter]
